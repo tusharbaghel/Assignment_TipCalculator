@@ -30,7 +30,7 @@ namespace Assignment
 
         private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Tip Calculator Version 2.0\nAll rights reserved to Michael Sadek", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Tip Calculator \nAll rights reserved to Tushar Baghel", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
 
